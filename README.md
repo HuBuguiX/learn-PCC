@@ -8,5 +8,9 @@
 
 ## 模块
 
-* 安装matplotlib
+* 安装 matplotlib
   书上的安装方法有点麻烦，网上说可用pip直接安装 `pip3 install matplotlib`
+* 安装 pygal
+  `pipe install pygal`
+* 安装 requests
+  `pip3 install requests`
